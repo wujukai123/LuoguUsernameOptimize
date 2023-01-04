@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         洛谷用户名优化 Luogu username optimize
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.3.1
 // @description  Make your Luogu user name purple and add administrator labels and gold hooks to make yourself an administrator.
 // @author       wujukai123
 // @match        https://www.luogu.com.cn/*
